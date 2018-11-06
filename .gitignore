@@ -11,4 +11,10 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .env
+.env.*.php
+.env.php
 .phpunit.result.cache
+vendor/
+bootstrap/compiled.php
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
